@@ -1,0 +1,9 @@
+.title-slide {
+  background-image: url(anchor-solid.svg), url(anchor-solid.svg);
+  background-size: 15%, 5%;
+  background-position: 1% 1%, 99% 1%;
+  border-width: 15px 15px 180px 0px;
+  background-color: mediumorchid;
+  border-style: solid;
+  border-color: white;
+}

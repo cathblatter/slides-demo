@@ -1,0 +1,32 @@
+---
+title: "quarto-test"
+subtitle: a very logn name
+format: 
+  revealjs:
+    theme: [default, quarto-custom.css]
+    title-slide-attributes: 
+      data-background-image: anchor-solid.svg, anchor-solid.svg
+      data-background-size: 15%, 5%
+      data-background-position: 1% 1%, 99% 1%
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+
